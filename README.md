@@ -1,19 +1,17 @@
 # Testing-HTML
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <style>
-            img {
-                max-width: 500px; 
-                margin: 5px;
-            }
-            p {
-                text-align: justify;
-                max-width: 500px;
-                padding: 5px
-            }
-        </style>
-    </head>
+    <style>
+        img {
+            max-width: 500px; 
+            margin: 5px;
+        }
+        p {
+            text-align: justify;
+            max-width: 500px;
+            padding: 5px
+        }
+    </style>
     <body>
         <section>
             <img src="https://www.datocms-assets.com/14946/1590690690-front-end.jpg" alt="Front-End themed image">
