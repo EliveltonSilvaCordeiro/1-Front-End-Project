@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    background-color: #e3e4e6;
+}
+
+header {
+    display: block;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    height: fit-content;
+    background-color: #aaa;
+    border-bottom: solid #555;
+
+}
+
+.projeto {
+    margin: 10px;
+}
+
+ul {
+    list-style: none;
+    text-indent: 20px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.btn {
+    font-size: 12px;
+    text-transform: uppercase;
+    justify-content: space-evenly;
+    text-align: center;
+    text-decoration: none;
+    background-color: #e3e4e6;
+    color: #000;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #555;
+    color: #e3e4e6;
+    transition-duration: 0.5s;
+}
+
+.btn:focus {
+    background-color: #555;
+    color: #555;
+    transition-duration: 0.5s;
+}
+
+.preenchimento {
+    block-size: 90px;
+    background-color: transparent;
+}
+
+h1 {
+    text-align: center;
+    padding: 24px 0;
+}
+
+h3 {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.conteudo {
+    margin: 0 30%;
+}
+
+.seção1, .seção2, .seção3, .seção4{
+    max-width: 500px;
+    display: block;
+    text-align: justify;
+    padding: 0 10px 20px 10px;
+    background-color: #aaa;
+    margin: 5%;
+    border-radius: 30px;
+}
+
+footer {
+    display: block;
+    position: absolute bottom;
+    text-align: center;
+    font-size: large;
+    width: 100%;
+    margin: 30px 0 0 0;
+    background-color: #aaa;
+    border-top: solid #555;
+}
