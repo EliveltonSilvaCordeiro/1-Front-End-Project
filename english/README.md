@@ -24,7 +24,7 @@
 
 ### 📷 Screenshot
 
-![Laptop G Screenshot](https://user-images.githubusercontent.com/105513033/181031045-55617ba9-74fc-4c7b-aadd-fcee34872186.png)
+![Projects Screenshot](https://user-images.githubusercontent.com/105513033/183967106-964701a9-bbba-4e65-97ca-2ca25d58c6e0.png)
 
 
 ### 🔗 Links
