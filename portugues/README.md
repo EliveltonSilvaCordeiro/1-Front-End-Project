@@ -24,13 +24,13 @@
 
 ### 📷 Screenshot
 
-![Laptop G Screenshot](https://user-images.githubusercontent.com/105513033/181031045-55617ba9-74fc-4c7b-aadd-fcee34872186.png)
+![Screenshot do Projeto](https://user-images.githubusercontent.com/105513033/183966269-5f5cd193-a8ff-4247-bd60-6964822c440b.png)
 
 
 ### 🔗 Links
 
 - URL do repositório: [Repositório in Github](https://github.com/EliveltonSilvaCordeiro/1-Front-End-Project/)
-- URL do site ao vivo: [Site ao vivo por Vercel](https://testing-html-mocha.vercel.app/)
+- URL do site ao vivo: [Site ao vivo por Vercel](https://1-front-end-project-9gbb44v5s-eliveltonsilvacordeiro.vercel.app/)
 
 &nbsp;
 
