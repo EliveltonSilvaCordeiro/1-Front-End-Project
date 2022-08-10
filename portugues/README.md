@@ -1,9 +1,9 @@
-# Testing-HTML
+# Testando HTML
 
 <img src="https://www.datocms-assets.com/14946/1590690690-front-end.jpg" alt="o" width="100%">
 <span>
   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-success" alt="Status: Finished">
-  <img src="https://img.shields.io/badge/DATA-DE-LANÇAMENTO-JULHO%202022-informational" alt="Data de Lançamento: Julho de 2022">
+  <img src="https://img.shields.io/badge/DATA_DE_LANÇAMENTO-JULHO%202022-informational" alt="Data de Lançamento: Julho de 2022">
   <img src="https://img.shields.io/badge/LICENÇA-NENHUMA-important" alt="Licença: Nenhuma">
 </span>
 
